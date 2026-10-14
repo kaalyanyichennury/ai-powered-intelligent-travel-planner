@@ -1,0 +1,21 @@
+hotel_id,name,city,country,tier,price_per_night_usd,rating,latitude,longitude,amenities
+H001,Hôtel Le Marais Charme,Paris,France,mid-range,140,4.6,48.8575,2.3590,Free WiFi Breakfast Central Boutique
+H002,Hôtel Ritz Paris,Paris,France,luxury,520,4.9,48.8682,2.3292,Spa Fine Dining Concierge Luxury
+H003,Generator Hostel Paris,Paris,France,budget,45,4.3,48.8778,2.3701,Free WiFi Rooftop Bar Dorm & Private
+H004,Shinjuku Granbell Hotel,Tokyo,Japan,mid-range,120,4.4,35.6961,139.7046,WiFi Rooftop Terrace Near Station
+H005,Aman Tokyo,Tokyo,Japan,luxury,650,4.9,35.6866,139.7645,Spa Panoramic Views Onsen Fine Dining
+H006,Khaosan Tokyo Origami,Tokyo,Japan,budget,35,4.2,35.7170,139.7960,Dorm Kitchen Cultural Events Near Temple
+H007,Hotel Artemide Rome,Rome,Italy,mid-range,160,4.7,41.9015,12.4935,Breakfast Rooftop Bar Spa Central
+H008,Hotel de Russie,Rome,Italy,luxury,580,4.8,41.9099,12.4770,Private Garden Luxury Spa Near Piazza del Popolo
+H009,The RomeHello Hostel,Rome,Italy,budget,40,4.6,41.9018,12.4952,Ensuite Dorms Bar Events Central
+H010,Arlo Midtown Manhattan,New York,United States,mid-range,210,4.5,40.7548,-73.9934,Rooftop Bar Modern Central Location
+H011,The Plaza Hotel,New York,United States,luxury,750,4.7,40.7645,-73.9745,5-Star Historic Central Park Champagne Bar
+H012,HI NYC Hostel Manhattan,New York,United States,budget,55,4.3,40.7989,-73.9682,Free WiFi Patio Lounge Central Park access
+H013,Rove Downtown Dubai,Dubai,United Arab Emirates,mid-range,110,4.6,25.2010,55.2810,Burj View Pool 24h Gym Central
+H014,Burj Al Arab Jumeirah,Dubai,United Arab Emirates,luxury,980,4.9,25.1412,55.1852,7-Star Private Beach Helipad Butler
+H015,Premier Inn Dubai Al Jaddaf,Dubai,United Arab Emirates,budget,45,4.2,25.2155,55.3340,Rooftop Pool Shuttle Free WiFi
+H016,Catalonia Eixample 1864,Barcelona,Spain,mid-range,135,4.5,41.3935,2.1668,Pool Central Near Passeig de Gracia
+H017,Mandarin Oriental Barcelona,Barcelona,Spain,luxury,510,4.8,41.3916,2.1649,Rooftop Pool Spa Michelin Dining
+H018,Yeah Hostel Barcelona,Barcelona,Spain,budget,38,4.7,41.4005,2.1652,Social Dinner Clean Central
+H019,Cross Hotel Kyoto,Kyoto,Japan,mid-range,130,4.6,35.0086,135.7702,Near Gion Restaurant Stylish Lounge
+H020,Maya Ubud Resort & Spa,Bali,Indonesia,luxury,280,4.8,-8.5090,115.2750,Infinity Pool River Valley Spa Yoga

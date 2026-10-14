@@ -1,0 +1,21 @@
+restaurant_id,name,city,country,cuisine,avg_cost_usd,rating,latitude,longitude,highlights
+R001,Le Bouillon Chartier,Paris,France,Classic French,22,4.4,48.8719,2.3429,Historic Belle Epoque dining authentic escargot and duck confit
+R002,Chez Janou,Paris,France,Provençal Bistro,35,4.5,48.8553,2.3667,Famous chocolate mousse pastis selection cozy Marais bistro
+R003,L'As du Fallafel,Paris,France,Middle Eastern & Street Food,12,4.6,48.8574,2.3592,Legendary falafel pita sandwiches crispy eggplant tahini
+R004,Ichiran Ramen Shibuya,Tokyo,Japan,Japanese Ramen,14,4.6,35.6601,139.7012,Solo dining booths rich tonkotsu broth customizable noodles
+R005,Ginza Kyubey,Tokyo,Japan,Sushi & Fine Dining,120,4.8,35.6698,139.7615,Iconic Edo-style sushi omakase master chef craftsmanship
+R006,Fuunji Shinjuku,Tokyo,Japan,Tsukemen & Dipping Noodles,12,4.7,35.6882,139.6974,Thick chicken and seafood dipping broth legendary queues
+R007,Da Enzo al 29,Rome,Italy,Traditional Roman,32,4.6,41.8887,12.4777,Best cacio e pepe carbonara fried artichokes Trastevere gem
+R008,Roscioli Salumeria con Cucina,Rome,Italy,Italian Gourmet & Wine,55,4.7,41.8943,12.4735,Artisan cured meats burrata top carbonara in Rome
+R009,Pizzeria Da Baffetto,Rome,Italy,Thin-Crust Pizza,18,4.3,41.8988,12.4704,Crispy wood-fired Roman pizza bustling authentic atmosphere
+R010,Katz's Delicatessen,New York,United States,Classic Deli,28,4.6,40.7223,-73.9874,Legendary pastrami on rye mile-high corned beef iconic film landmark
+R011,Joe's Pizza Greenwich Village,New York,United States,NY Style Pizza,6,4.7,40.7306,-74.0021,Classic New York foldable cheese and pepperoni slice
+R012,Gramercy Tavern,New York,United States,Contemporary American,95,4.7,40.7384,-73.9884,Michelin-starred seasonal farm-to-table warm hospitality
+R013,Al Ustad Special Kabab,Dubai,United Arab Emirates,Middle Eastern Grill,18,4.5,25.2608,55.2974,Authentic marinated lamb and chicken yogurt kebabs since 1978
+R014,At.mosphere Burj Khalifa,Dubai,United Arab Emirates,Fine Dining Luxury,180,4.6,25.1972,55.2744,Highest restaurant in the world on level 122 spectacular views
+R015,Arabian Tea House Al Fahidi,Dubai,United Arab Emirates,Emirati Heritage,25,4.6,25.2635,55.3005,Traditional Emirati breakfast machboos mint tea in historic courtyard
+R016,Cervecería Catalana,Barcelona,Spain,Tapas & Seafood,32,4.6,41.3923,2.1609,Superb grilled razor clams montaditos Iberian ham patatas bravas
+R017,El Xampanyet,Barcelona,Spain,Historic Tapas Bar,25,4.6,41.3846,2.1818,House sparkling cava anchovies and lively Gothic quarter vibes
+R018,Gion Duck Noodles,Kyoto,Japan,Ramen & Duck Soba,16,4.6,35.0041,135.7745,Trendy hidden ramen bar serving French duck broth and noodles
+R019,Warung Babi Guling Ibu Oka,Bali,Indonesia,Balinese Roasted Pork,8,4.4,-8.5065,115.2625,Famous spiced spit-roasted suckling pig with crispy crackling
+R020,Locavore NXT,Bali,Indonesia,Modern Indonesian,90,4.8,-8.5204,115.2642,Award-winning hyper-local sustainable Indonesian tasting menus
